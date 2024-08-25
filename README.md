@@ -60,7 +60,7 @@
 <span><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" height="25" /></span>
 &nbsp;
 
-### Databases
+### <u> Databases: </u>
 <span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" height="25" /></span>
