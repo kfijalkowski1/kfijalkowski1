@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **cloud staff**
 
-- 📫 How to reach me **k.1.fijalkowski@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/krzysztof-fija%c5%82kowski-02a231118/" target="blank">LinkedIn</a>
+- 📫 How to reach me **k.1.fijalkowski@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/krzysztof-fija%c5%82kowski-02a231118/" target="blank">**LinkedIn**</a>
 
 </p>
 
