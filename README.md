@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **secret project at Dell ;)**
 
-- 🌱 I’m currently learning **Advanced k8s, front-end**
+- 🌱 I’m currently learning **Advanced k8s, GoLang**
 
 - 👯 I’m looking to collaborate on **cloud staff**
 
