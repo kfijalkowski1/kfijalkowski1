@@ -6,11 +6,7 @@
 
 - 👯 I’m looking to collaborate on **cloud staff**
 
-- 📫 How to reach me **k.1.fijalkowski@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krzysztof-fija%c5%82kowski-02a231118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krzysztof-fija%c5%82kowski-02a231118/" height="30" width="40" /></a>
+- 📫 How to reach me **k.1.fijalkowski@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/krzysztof-fija%c5%82kowski-02a231118/" target="blank">LinkedIn</a>
 
 </p>
 
@@ -39,11 +35,11 @@
 ### <u> DevOps + Deployment Technologies & Tools: </u>
 
 <br>
-<span><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="azure" width="40" height="40"/> </a></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/> </a></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"  height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"  width="40" height="40"/> </a></span>
+<span><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"  height="25"/> </a></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" /></span>
 &nbsp;
