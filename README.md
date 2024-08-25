@@ -10,6 +10,8 @@
 
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kfijalkowski1&" alt="kfijalkowski1" /></p>
+
 ## 🚀💻 Technologies & Tools
 
 ### <u> Languages: </u>
@@ -121,8 +123,4 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kfijalkowski1&show_icons=true&locale=en&layout=compact" alt="kfijalkowski1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kfijalkowski1&show_icons=true&locale=en" alt="kfijalkowski1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kfijalkowski1&" alt="kfijalkowski1" /></p>
