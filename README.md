@@ -10,7 +10,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kfijalkowski1&" alt="kfijalkowski1" /></p>
 
 ## 🚀💻 Technologies & Tools
 
